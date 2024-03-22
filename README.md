@@ -16,7 +16,7 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Nav9Nav123/ca13.git
-cd react-component
+cd ca13-master
 ```
 
 ### Building the Docker Image
