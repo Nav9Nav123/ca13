@@ -15,7 +15,7 @@ This document provides instructions to set up and run the React Component Librar
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/nfeng037/react-component
+git clone https://github.com/Nav9Nav123/ca13.git
 cd react-component
 ```
 
@@ -24,7 +24,7 @@ cd react-component
 To build the Docker image for the application, run the following command in the root directory of the project:
 
 ```bash
-docker build -t feng_na_coding_assignment13 .
+docker build -t kaur_navjot_coding_assignment13 .
 ```
 
 ### Running the Docker Container
@@ -32,7 +32,7 @@ docker build -t feng_na_coding_assignment13 .
 Once the image is built, you can run the container using:
 
 ```bash
-docker run -dp 8018:8018 --name feng_na_coding_assignment13 feng_na_coding_assignment13
+docker run -dp 8018:8018 --name kaur_navjot_coding_assignment13 kaur_navjot_coding_assignment13
 
 ```
 
